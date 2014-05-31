@@ -13,8 +13,8 @@ $ ./composer.phar require gustarus/webulla-yii2-raphael_js:dev-master
 
 ## Usage
 
-// TODO
+// TODO yii2-extension usage
 
-## License
+## Raphael.js usage
 
 Go to [github.raphael](https://github.com/DmitryBaranovskiy/raphael) for information.
