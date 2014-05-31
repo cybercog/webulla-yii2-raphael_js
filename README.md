@@ -8,7 +8,7 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-$ ./composer.phar require gustarus/webulla-yii2-raphael_js:dev-master
+$ ./composer.phar require webulla/yii2-raphael_js:dev-master
 ```
 
 ## Usage
