@@ -17,4 +17,4 @@ $ ./composer.phar require gustarus/webulla-yii2-raphael_js:dev-master
 
 ## License
 
-Go to `http://raphaeljs.com/` for information.
+Go to [github.raphael](https://github.com/DmitryBaranovskiy/raphael) for information.
